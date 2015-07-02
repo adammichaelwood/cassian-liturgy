@@ -2,7 +2,7 @@ user-notes: ;
 commentary: ;
 annotation: IV;
 centering-scheme: english;
-%fontsize: 14;
+%fontsize: 12;
 %spacing: vichi;
 %font: GaramondPremierPro;
 %width: 4.5;
