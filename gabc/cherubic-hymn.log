@@ -1,0 +1,1022 @@
+This is TeX, Version 3.14159265 (TeX Live 2014) (preloaded format=tex 2014.5.25)  6 JAN 2016 11:46
+**help
+(./cherubic-hymn.gtex
+! Undefined control sequence.
+l.2 \GregorioTeXAPIVersion
+                          {4.0.1}%
+? 
+! Undefined control sequence.
+l.3 \GreBeginScore
+                  {4dc68c485840c85abae20697562fc997076da572}{11}{5}{0}{0}{}%
+? 
+! Undefined control sequence.
+l.4 \englishcentering
+                     %
+? 
+! Undefined control sequence.
+l.5 \GreSetInitial
+                  {W}%
+? 
+! Undefined control sequence.
+l.6 \GreBeginNotes
+                   %
+? 
+! Undefined control sequence.
+l.7 \GreSetInitialClef
+                      {c}{4}{3}%
+? 
+! Undefined control sequence.
+l.8 \GreSyllable
+                {\GreSetThisSyllable{}{\GreFirstWord{\GreFirstSyllable{\GreF...
+
+? 
+! Undefined control sequence.
+l.8 \GreSyllable{\GreSetThisSyllable
+                                    {}{\GreFirstWord{\GreFirstSyllable{\GreF...
+
+? 
+! Undefined control sequence.
+l.8 ...yllable{\GreSetThisSyllable{}{\GreFirstWord
+                                                  {\GreFirstSyllable{\GreFir...
+
+? 
+! Undefined control sequence.
+l.8 ...sSyllable{}{\GreFirstWord{\GreFirstSyllable
+                                                  {\GreFirstSyllableInitial{...
+
+? 
+! Undefined control sequence.
+l.8 ...{\GreFirstSyllable{\GreFirstSyllableInitial
+                                                  {e}}}}{}{\GreFirstWord{\Gr...
+
+? 
+! Undefined control sequence.
+l.8 ...eFirstSyllableInitial{e}}}}{}{\GreFirstWord
+                                                  {\GreFirstSyllable{\GreFir...
+
+? 
+! Undefined control sequence.
+l.8 ...ial{e}}}}{}{\GreFirstWord{\GreFirstSyllable
+                                                  {\GreFirstSyllableInitial{...
+
+? 
+! Undefined control sequence.
+l.8 ...{\GreFirstSyllable{\GreFirstSyllableInitial
+                                                  {e}}}}{}}{}{\GreFirstWord}...
+
+? 
+! Undefined control sequence.
+l.8 ...rstSyllableInitial{e}}}}{}}{}{\GreFirstWord
+                                                  }{1}{\GreSetNextSyllable{w...
+
+? 
+! Undefined control sequence.
+l.8 ...{}}{}{\GreFirstWord}{1}{\GreSetNextSyllable
+                                                  {wh}{o}{}{w}{ho}}{}{0}{}{%
+? 
+! Undefined control sequence.
+l.9 \GreGlyph
+             {\GreCPPunctum}{6}{7}{0}%
+? 
+! Undefined control sequence.
+l.9 \GreGlyph{\GreCPPunctum
+                           }{6}{7}{0}%
+? 
+! Undefined control sequence.
+l.11 \GreGlyphHeights
+                     {6}{6}%
+? 
+! Undefined control sequence.
+l.15 \GreSyllable
+                 {\GreSetThisSyllable{wh}{o}{}{w}{ho}}{}{\GreUnstyled}{1}{\G...
+
+? 
+! Undefined control sequence.
+l.15 \GreSyllable{\GreSetThisSyllable
+                                     {wh}{o}{}{w}{ho}}{}{\GreUnstyled}{1}{\G...
+
+? 
+! Undefined control sequence.
+l.15 ...isSyllable{wh}{o}{}{w}{ho}}{}{\GreUnstyled
+                                                  }{1}{\GreSetNextSyllable{m...
+
+? 
+! Undefined control sequence.
+l.15 ...o}}{}{\GreUnstyled}{1}{\GreSetNextSyllable
+                                                  {m}{y}{st}{m}{yst}}{}{0}{}{%
+? 
+! Undefined control sequence.
+l.16 \GreGlyph
+              {\GreCPPunctum}{7}{8}{0}%
+? 
+! Undefined control sequence.
+l.16 \GreGlyph{\GreCPPunctum
+                            }{7}{8}{0}%
+? 
+! Undefined control sequence.
+l.18 \GreGlyphHeights
+                     {7}{7}%
+? ^^[
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? R
+OK, entering \nonstopmode...
+! Undefined control sequence.
+l.22 \GreSyllable
+                 {\GreSetThisSyllable{m}{y}{st}{m}{yst}}{}{\GreUnstyled}{0}{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 \GreSyllable{\GreSetThisSyllable
+                                     {m}{y}{st}{m}{yst}}{}{\GreUnstyled}{0}{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 ...Syllable{m}{y}{st}{m}{yst}}{}{\GreUnstyled
+                                                  }{0}{\GreSetNextSyllable{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 ...t}}{}{\GreUnstyled}{0}{\GreSetNextSyllable
+                                                  {}{i}{c}{i}{c}}{}{0}{}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.23 \GreGlyph
+              {\GreCPPunctum}{8}{9}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.23 \GreGlyph{\GreCPPunctum
+                            }{8}{9}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.25 \GreGlyphHeights
+                     {8}{8}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 \GreSyllable
+                 {\GreSetThisSyllable{}{i}{c}{i}{c}}{}{\GreUnstyled}{0}{\Gre...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 \GreSyllable{\GreSetThisSyllable
+                                     {}{i}{c}{i}{c}}{}{\GreUnstyled}{0}{\Gre...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 ...ThisSyllable{}{i}{c}{i}{c}}{}{\GreUnstyled
+                                                  }{0}{\GreSetNextSyllable{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 ...c}}{}{\GreUnstyled}{0}{\GreSetNextSyllable
+                                                  {}{a}{lly}{a}{lly}}{}{0}{}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.29 \GreGlyph
+              {\GreCPPunctum}{9}{10}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.29 \GreGlyph{\GreCPPunctum
+                            }{9}{10}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.31 \GreGlyphHeights
+                     {9}{9}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.34 \GreSyllable
+                 {\GreSetThisSyllable{}{a}{lly}{a}{lly}}{}{\GreUnstyled}{1}{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.34 \GreSyllable{\GreSetThisSyllable
+                                     {}{a}{lly}{a}{lly}}{}{\GreUnstyled}{1}{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.34 ...Syllable{}{a}{lly}{a}{lly}}{}{\GreUnstyled
+                                                  }{1}{\GreSetNextSyllable{r...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.34 ...y}}{}{\GreUnstyled}{1}{\GreSetNextSyllable
+                                                  {r}{e}{}{r}{e}}{}{20}{}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.35 \GreGlyph
+              {\GreCPPunctum}{10}{10}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.35 \GreGlyph{\GreCPPunctum
+                            }{10}{10}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.37 \GreGlyphHeights
+                     {10}{10}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 \GreSyllable
+                 {\GreSetThisSyllable{r}{e}{}{r}{e}}{}{\GreUnstyled}{0}{\Gre...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 \GreSyllable{\GreSetThisSyllable
+                                     {r}{e}{}{r}{e}}{}{\GreUnstyled}{0}{\Gre...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 ...ThisSyllable{r}{e}{}{r}{e}}{}{\GreUnstyled
+                                                  }{0}{\GreSetNextSyllable{p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 ...e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable
+                                                  {pr}{e}{}{p}{re}}{}{0}{}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.42 \GreFlat
+             {11}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.43 \GreGlyph
+              {\GreCPTorculusOneOneNothing}{10}{9}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.43 \GreGlyph{\GreCPTorculusOneOneNothing
+                                          }{10}{9}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.45 \GreGlyphHeights
+                     {11}{10}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.48 \GreSyllable
+                 {\GreSetThisSyllable{pr}{e}{}{p}{re}}{}{\GreUnstyled}{0}{\G...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.48 \GreSyllable{\GreSetThisSyllable
+                                     {pr}{e}{}{p}{re}}{}{\GreUnstyled}{0}{\G...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.48 ...isSyllable{pr}{e}{}{p}{re}}{}{\GreUnstyled
+                                                  }{0}{\GreSetNextSyllable{s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.48 ...e}}{}{\GreUnstyled}{0}{\GreSetNextSyllable
+                                                  {s}{e}{nt}{s}{ent}}{}{0}{}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.49 \GreGlyph
+              {\GreCPPunctum}{9}{10}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.49 \GreGlyph{\GreCPPunctum
+                            }{9}{10}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.51 \GreGlyphHeights
+                     {9}{9}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.54 \GreSyllable
+                 {\GreSetThisSyllable{s}{e}{nt}{s}{ent}}{}{\GreUnstyled}{1}{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.54 \GreSyllable{\GreSetThisSyllable
+                                     {s}{e}{nt}{s}{ent}}{}{\GreUnstyled}{1}{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.54 ...Syllable{s}{e}{nt}{s}{ent}}{}{\GreUnstyled
+                                                  }{1}{\GreSetNextSyllable{t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.54 ...t}}{}{\GreUnstyled}{1}{\GreSetNextSyllable
+                                                  {th}{e}{}{t}{he}}{}{0}{}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.55 \GreGlyph
+              {\GreCPPunctum}{10}{10}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.55 \GreGlyph{\GreCPPunctum
+                            }{10}{10}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.57 \GreGlyphHeights
+                     {11}{10}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.59 \GreHEpisema
+                 {11}{\GreOCaseFinalPunctum}{0}{0}{f}{11}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.59 \GreHEpisema{11}{\GreOCaseFinalPunctum
+                                           }{0}{0}{f}{11}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.63 \GreSyllable
+                 {\GreSetThisSyllable{th}{e}{}{t}{he}}{}{\GreUnstyled}{1}{\G...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.63 \GreSyllable{\GreSetThisSyllable
+                                     {th}{e}{}{t}{he}}{}{\GreUnstyled}{1}{\G...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.63 ...isSyllable{th}{e}{}{t}{he}}{}{\GreUnstyled
+                                                  }{1}{\GreSetNextSyllable{c...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.63 ...e}}{}{\GreUnstyled}{1}{\GreSetNextSyllable
+                                                  {ch}{e}{r}{c}{her}}{}{0}{}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.64 \GreGlyph
+              {\GreCPPunctum}{10}{9}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.64 \GreGlyph{\GreCPPunctum
+                            }{10}{9}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.66 \GreGlyphHeights
+                     {10}{10}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.70 \GreSyllable
+                 {\GreSetThisSyllable{ch}{e}{r}{c}{her}}{}{\GreUnstyled}{0}{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.70 \GreSyllable{\GreSetThisSyllable
+                                     {ch}{e}{r}{c}{her}}{}{\GreUnstyled}{0}{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.70 ...Syllable{ch}{e}{r}{c}{her}}{}{\GreUnstyled
+                                                  }{0}{\GreSetNextSyllable{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.70 ...r}}{}{\GreUnstyled}{0}{\GreSetNextSyllable
+                                                  {}{u}{}{u}{}}{}{0}{}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.71 \GreGlyph
+              {\GreCPPunctum}{9}{8}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.71 \GreGlyph{\GreCPPunctum
+                            }{9}{8}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.73 \GreGlyphHeights
+                     {9}{9}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.76 \GreSyllable
+                 {\GreSetThisSyllable{}{u}{}{u}{}}{}{\GreUnstyled}{0}{\GreSe...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.76 \GreSyllable{\GreSetThisSyllable
+                                     {}{u}{}{u}{}}{}{\GreUnstyled}{0}{\GreSe...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.76 ...etThisSyllable{}{u}{}{u}{}}{}{\GreUnstyled
+                                                  }{0}{\GreSetNextSyllable{b...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.76 ...{}}{}{\GreUnstyled}{0}{\GreSetNextSyllable
+                                                  {b}{i}{m}{b}{im}}{}{0}{}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.77 \GreGlyph
+              {\GreCPPunctum}{8}{7}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.77 \GreGlyph{\GreCPPunctum
+                            }{8}{7}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.79 \GreGlyphHeights
+                     {8}{8}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.82 \GreSyllable
+                 {\GreSetThisSyllable{b}{i}{m}{b}{im}}{}{\GreUnstyled}{1}{\G...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.82 \GreSyllable{\GreSetThisSyllable
+                                     {b}{i}{m}{b}{im}}{}{\GreUnstyled}{1}{\G...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.82 ...isSyllable{b}{i}{m}{b}{im}}{}{\GreUnstyled
+                                                  }{1}{\GreSetNextSyllable{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.82 ...m}}{}{\GreUnstyled}{1}{\GreSetNextSyllable
+                                                  {}{}{}{}{}}{}{11}{}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.83 \GreGlyph
+              {\GreCPPunctum}{7}{6}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.83 \GreGlyph{\GreCPPunctum
+                            }{7}{6}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.85 \GreGlyphHeights
+                     {7}{7}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.87 \GrePunctumMora
+                    {7}{0}{0}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.91 \GreBarSyllable
+                    {\GreSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled}{1}{\GreS...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.91 \GreBarSyllable{\GreSetThisSyllable
+                                        {}{}{}{}{}}{}{\GreUnstyled}{1}{\GreS...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.91 ...eSetThisSyllable{}{}{}{}{}}{}{\GreUnstyled
+                                                  }{1}{\GreSetNextSyllable{}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.91 ...{}}{}{\GreUnstyled}{1}{\GreSetNextSyllable
+                                                  {}{a}{nd}{a}{nd}}{}{0}{}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.92 \GreDivisioMinima
+                      {}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.95 \GreSyllable
+                 {\GreSetThisSyllable{}{a}{nd}{a}{nd}}{}{\GreUnstyled}{1}{\G...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.95 \GreSyllable{\GreSetThisSyllable
+                                     {}{a}{nd}{a}{nd}}{}{\GreUnstyled}{1}{\G...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.95 ...isSyllable{}{a}{nd}{a}{nd}}{}{\GreUnstyled
+                                                  }{1}{\GreSetNextSyllable{s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.95 ...d}}{}{\GreUnstyled}{1}{\GreSetNextSyllable
+                                                  {s}{i}{ng}{s}{ing}}{}{0}{}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.96 \GreGlyph
+              {\GreCPPunctum}{6}{10}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.96 \GreGlyph{\GreCPPunctum
+                            }{6}{10}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.98 \GreGlyphHeights
+                     {6}{6}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.102 \GreSyllable
+                  {\GreSetThisSyllable{s}{i}{ng}{s}{ing}}{}{\GreUnstyled}{1}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.102 \GreSyllable{\GreSetThisSyllable
+                                      {s}{i}{ng}{s}{ing}}{}{\GreUnstyled}{1}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.102 ...yllable{s}{i}{ng}{s}{ing}}{}{\GreUnstyled
+                                                  }{1}{\GreSetNextSyllable{t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.102 ...}}{}{\GreUnstyled}{1}{\GreSetNextSyllable
+                                                  {th}{e}{}{t}{he}}{}{0}{}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.103 \GreGlyph
+               {\GreCPPunctum}{10}{10}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.103 \GreGlyph{\GreCPPunctum
+                             }{10}{10}{0}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.105 \GreGlyphHeights
+                      {11}{10}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.107 \GreHEpisema
+                  {11}{\GreOCaseFinalPunctum}{0}{0}{f}{11}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.107 \GreHEpisema{11}{\GreOCaseFinalPunctum
+                                            }{0}{0}{f}{11}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.111 \GreSyllable
+                  {\GreSetThisSyllable{th}{e}{}{t}{he}}{}{\GreUnstyled}{1}{\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.111 \GreSyllable{\GreSetThisSyllable
+                                      {th}{e}{}{t}{he}}{}{\GreUnstyled}{1}{\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.111 ...sSyllable{th}{e}{}{t}{he}}{}{\GreUnstyled
+                                                  }{1}{\GreSetNextSyllable{t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.111 ...}}{}{\GreUnstyled}{1}{\GreSetNextSyllable
+                                                  {thr}{i}{ce}{t}{hrice}}{}{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.112 \GreGlyph
+               {\GreCPPunctum}{10}{10}{0}%
+(That makes 100 errors; please try again.)
+No pages of output.
