@@ -60,45 +60,38 @@ global = {
   \key g \major
   \numericTimeSignature
   \time 4/4
-  \partial 4
 }
 
 sopranoVoice = \relative c'' {
   \set Staff.autoBeaming = ##f
   \global
   \dynamicUp
-  g8[ fis]
-  e4 e e d
-  g g a g8[ a]
-  b4 b a8[ g] e4
-  d2. \z
-  g8[ fis] 
-  e4 e e d
-  g g a g8[ a]
-  b4 b a8[ g] e4
-  e2. \z
-  b'8[ c]
-  d4 b b8[ a] g4
-  a a b g8[ a]
-  b4 b8[ a] g4 e
-  d2. \z
-  g8[fis]
-  e4 e e8[d] e[ fis] 
-  g4 g a g8[ a] 
-  b4 b a8[ g] e4
-  e2. \bar "|."
+  
+  g2. g4
+  g2 g2
+  g2( b
+  a) g
+  
+  fis2. fis4
+  fis2 fis2
+  fis( a
+  g4\( fis e\)) fis
+
+  g2. fis4
+  e2 dis
+  e( g
+  fis e)
+  dis1
+  
+  
+   \bar "|."
   
 }
 
 verseOne = \lyricmode {
-LORD, let thy ser -- vant now de -- part
-In -- to thy pro -- mised rest;
-Since my ex -- pect -- ing Eyes have been
-With thy Sal -- va -- tion blessed;
-Which, till the Time thy fa -- voured Saints,
-And Pro -- phets, on -- ly knew,
-Long since pre -- pared, but now set forth
-In all the peo -- ple's view.
+Me -- mo -- ry E -- ter -- nal,
+Me -- mo -- ry E -- ter -- nal,
+Me -- mo -- ry E -- ter -- nal.
   
 }
 
